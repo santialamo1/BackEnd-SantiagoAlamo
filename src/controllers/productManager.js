@@ -93,5 +93,3 @@ export class ProductManager {
     }
   }
 }
-
-const productManager = new ProductManager("../datos/products.json");
